@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative; 
+    padding: 150px;
+    margin-bottom: 30px;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 450PX;
+    left: 400px;
+  
+}
+
+h1{
+    color: #66BFBF;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 405%;
+    /* line-height: 2; */
+}
+
+h2{
+    font-weight: normal;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    padding-bottom:10px ;
+    
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    /* margin: auto; */
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right:30px ;
+    
+}
+
+.language-img{
+    width: 25%;
+    float: right ;
+    margin-left: 30px;
+   
+}
+
+p{
+    color: #40514E;
+    font-family: montserrat;
+    font-weight: bold;
+}
+
+.bottom-container{
+    background-color:#66BFBF;
+    margin-bottom: 0;
+}
+a{
+    line-height: 4;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover{
+    color: white;
+}
+.get-in-touch{
+   
+    margin: auto;
+    width: 500px;
+}
+.footer-info{
+    color: white;
+}
+.btn{
+    
+    line-height: 50px;
+    background-color:#11999E ;
+    color: white;
+    border-radius: 20px;
+    height: 10px;
+    width: 40px;
+    line-height: 7;
+    
+}
+hr{
+   
+    
+     width: 4%;
+     border-style: none;
+    border-top: 5px dotted grey;
+    padding-bottom: 20px;
+    
+    
+}
+.btn:hover{
+    background-color: #11999E;
+}
+.footer-info{
+    margin-bottom: 0;
+    padding: 20px;
+}
+
+
+.boy-profile{
+    padding-top: 40px;
+}
+.paragraph1{
+    padding: 10px 0 30px;
+}
